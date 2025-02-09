@@ -9651,5 +9651,17 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2025-02-09 23:41:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-02-09 23:43:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
