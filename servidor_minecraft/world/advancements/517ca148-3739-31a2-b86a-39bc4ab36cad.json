@@ -9711,6 +9711,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-02-09 23:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-02-09 22:47:12 +0000"
@@ -9756,6 +9762,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-02-09 22:16:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-02-09 23:14:05 +0000"
     },
     "done": true
   },

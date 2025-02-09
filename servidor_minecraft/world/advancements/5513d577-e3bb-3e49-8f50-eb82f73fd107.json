@@ -3136,6 +3136,7 @@
       "minecraft:spider": "2025-02-08 05:06:45 +0000",
       "minecraft:creeper": "2025-02-08 05:12:46 +0000",
       "minecraft:evoker": "2025-02-08 21:40:13 +0000",
+      "minecraft:phantom": "2025-02-09 23:15:06 +0000",
       "minecraft:zombified_piglin": "2025-02-09 03:36:36 +0000",
       "minecraft:witch": "2025-02-08 21:39:33 +0000",
       "minecraft:wither_skeleton": "2025-02-09 03:26:02 +0000",
@@ -9888,7 +9889,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2025-02-08 20:34:39 +0000"
+      "minecraft:sheep": "2025-02-08 20:34:39 +0000",
+      "minecraft:chicken": "2025-02-09 23:13:08 +0000"
     },
     "done": false
   },
@@ -11327,6 +11329,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-02-09 23:15:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
@@ -11771,6 +11779,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-09 23:15:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
@@ -11888,6 +11902,12 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-09 23:15:17 +0000"
     },
     "done": true
   },
