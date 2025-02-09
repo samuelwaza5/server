@@ -9890,6 +9890,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-02-08 20:34:39 +0000",
+      "minecraft:cow": "2025-02-09 23:39:45 +0000",
       "minecraft:chicken": "2025-02-09 23:13:08 +0000"
     },
     "done": false
@@ -11257,6 +11258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-09 23:35:26 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/misc/lead_flux_capacitor": {
     "criteria": {
       "has_lead_ingot": "2025-02-09 22:54:52 +0000"
@@ -11308,6 +11315,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-02-09 23:35:32 +0000"
     },
     "done": true
   },
@@ -11401,6 +11414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-09 23:35:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
@@ -11428,6 +11447,12 @@
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-02-09 23:35:32 +0000"
     },
     "done": true
   },
@@ -11512,6 +11537,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-09 23:33:09 +0000"
     },
     "done": true
   },
@@ -11641,6 +11672,12 @@
     },
     "done": true
   },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-02-09 23:35:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/lead_longbow": {
     "criteria": {
       "has_lead_ingot": "2025-02-09 22:54:52 +0000"
@@ -11677,9 +11714,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-09 23:35:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-09 23:35:32 +0000"
     },
     "done": true
   },
@@ -11983,6 +12032,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-02-09 23:35:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
@@ -12016,6 +12071,12 @@
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
+    },
+    "done": true
+  },
+  "roundabout:luck_sword_template": {
+    "criteria": {
+      "has_luck_template": "2025-02-09 23:35:33 +0000"
     },
     "done": true
   },
@@ -12064,6 +12125,12 @@
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-02-09 23:35:23 +0000"
     },
     "done": true
   },
@@ -12148,6 +12215,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-09 23:35:32 +0000"
     },
     "done": true
   },

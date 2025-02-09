@@ -9765,9 +9765,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-02-09 23:38:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-02-09 22:16:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-02-09 23:38:58 +0000"
     },
     "done": true
   },
@@ -9780,6 +9792,18 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-09 22:16:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-02-09 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-02-09 23:38:58 +0000"
     },
     "done": true
   },
@@ -9801,11 +9825,23 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-09 23:32:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-09 22:16:04 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-02-09 23:32:39 +0000"
+    },
+    "done": false
   },
   "supplementaries:adventure/way_sign": {
     "criteria": {
@@ -9825,9 +9861,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-09 23:32:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-02-09 22:56:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-02-09 23:39:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-02-09 23:37:10 +0000"
     },
     "done": true
   },
