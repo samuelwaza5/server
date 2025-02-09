@@ -9561,6 +9561,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-02-09 23:00:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-02-09 23:00:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-02-09 23:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-02-09 22:21:31 +0000"
@@ -9570,6 +9588,12 @@
   "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-02-09 22:27:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-09 23:00:51 +0000"
     },
     "done": true
   },
@@ -9606,6 +9630,12 @@
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
       "has_iron_gloves": "2025-02-09 22:43:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-02-09 23:00:51 +0000"
     },
     "done": true
   },
