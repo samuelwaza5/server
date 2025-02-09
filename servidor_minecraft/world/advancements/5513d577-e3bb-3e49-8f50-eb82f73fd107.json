@@ -11207,9 +11207,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_heavy_crossbow": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_throwing_knife": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11225,9 +11237,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_lance": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_flux_capacitor": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11237,9 +11261,21 @@
     },
     "done": true
   },
+  "palladium:recipes/misc/lead_circuit": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_longsword": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11252,6 +11288,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_greatsword": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11297,6 +11339,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_parrying_dagger": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_battleaxe": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
@@ -11315,9 +11369,33 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lead_tower_shield": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_boomerang": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_saber": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_flanged_mace": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11399,6 +11477,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_glaive": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
@@ -11477,9 +11561,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_warhammer": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_tomahawk": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lead_basic_shield": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11504,6 +11606,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_longbow": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11585,6 +11693,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_scythe": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
@@ -11594,6 +11708,12 @@
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_pike": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11663,6 +11783,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_spear": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
@@ -11672,6 +11798,12 @@
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_rapier": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11807,6 +11939,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_katana": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
@@ -11837,6 +11975,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_quarterstaff": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
@@ -11849,9 +11993,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_halberd": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_battle_hammer": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-02-09 22:00:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_dagger": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_javelin": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
@@ -11888,6 +12056,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/lead_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-09 22:54:52 +0000"
     },
     "done": true
   },
