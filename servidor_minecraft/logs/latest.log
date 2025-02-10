@@ -137,3 +137,41 @@
 [10Feb2025 00:55:01.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 517ca148-3739-31a2-b86a-39bc4ab36cad
 [10Feb2025 00:55:01.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad) successfully connected to voice chat
 [10Feb2025 00:55:08.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[10Feb2025 00:55:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[10Feb2025 00:56:37.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[10Feb2025 00:56:47.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[10Feb2025 00:56:57.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[10Feb2025 00:57:58.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[10Feb2025 00:58:02.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[10Feb2025 00:58:11.686] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=232, y=11, z=138}
+[10Feb2025 00:58:20.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[10Feb2025 00:59:01.545] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-130, y=-13, z=217}
+[10Feb2025 00:59:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
+[10Feb2025 00:59:07.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -4.822426110506058,5.0,16.301662325859073
+[10Feb2025 00:59:38.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gerR3219[/100.78.112.64:57330] logged in with entity id 116053 at (2558.4086669233566, 88.0, 1325.9215800850964)
+[10Feb2025 00:59:38.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gerR3219
+[10Feb2025 00:59:38.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gerR3219
+[10Feb2025 00:59:38.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gerR3219
+[10Feb2025 00:59:38.880] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gerR3219
+[10Feb2025 00:59:38.882] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gerR3219
+[10Feb2025 00:59:38.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gerR3219
+[10Feb2025 00:59:38.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gerR3219
+[10Feb2025 00:59:38.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 joined the game
+[10Feb2025 00:59:39.367] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[10Feb2025 00:59:39.374] [Server thread/INFO] [Jade/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[10Feb2025 00:59:40.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 4.574929833976341,-3.984352881351956,8.054005753275376
+[10Feb2025 00:59:40.707] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[10Feb2025 00:59:40.710] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[10Feb2025 00:59:40.809] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 065037b0-ed5d-3132-be60-4d8fe8b3f69d was loaded
+[10Feb2025 00:59:56.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[10Feb2025 00:59:57.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[10Feb2025 00:59:57.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[10Feb2025 00:59:57.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Creative Mode]
+[10Feb2025 01:00:03.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Survival Mode]
+[10Feb2025 01:00:40.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to gerR3219]
+[10Feb2025 01:03:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported gerR3219 to ilis84]
+[10Feb2025 01:03:13.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/116109, l='ServerLevel[world]', x=2493.09, y=133.00, z=1343.00] died, message: 'Unemployed was slain by Zombie'
+[10Feb2025 01:03:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to gerR3219]
+[10Feb2025 01:03:52.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [Another Brick in the Wall]
+[10Feb2025 01:05:12.176] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[10Feb2025 01:05:12.176] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
