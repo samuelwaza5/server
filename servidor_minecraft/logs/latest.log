@@ -206,3 +206,118 @@
 [10Feb2025 01:25:04.022] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
 [10Feb2025 01:25:53.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Ancient Knight
 [10Feb2025 01:25:53.097] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:26:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has completed the challenge [Master Siphoner]
+[10Feb2025 01:27:37.921] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3201, y=20, z=2030}
+[10Feb2025 01:27:41.926] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3139, y=-18, z=2020}
+[10Feb2025 01:27:45.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[10Feb2025 01:27:49.781] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3293, y=-16, z=1960}
+[10Feb2025 01:27:50.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to gerR3219]
+[10Feb2025 01:28:39.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Zombified Piglin
+[10Feb2025 01:28:39.249] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:28:54.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:28:55.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [The Soul Forge]
+[10Feb2025 01:30:02.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:30:03.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:30:13.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was doomed to fall
+[10Feb2025 01:30:13.950] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:30:13.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerR3219 moved wrongly!
+[10Feb2025 01:30:20.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Feb2025 01:30:33.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Strong or Careful]
+[10Feb2025 01:30:33.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by gerR3219
+[10Feb2025 01:30:33.086] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:30:39.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
+[10Feb2025 01:30:40.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 burned to death
+[10Feb2025 01:30:40.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerR3219 moved wrongly!
+[10Feb2025 01:30:40.580] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:30:51.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:30:53.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:30:56.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[10Feb2025 01:30:58.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:30:58.730] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:31:06.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:31:06.770] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:31:18.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6825ms or 136 ticks behind
+[10Feb2025 01:31:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:31:19.211] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:31:33.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:31:33.106] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:31:36.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
+[10Feb2025 01:31:38.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:31:49.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:31:49.747] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:32:06.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:32:06.142] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:32:11.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10Feb2025 01:32:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:32:15.983] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:32:46.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:32:46.694] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:32:48.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[10Feb2025 01:32:57.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:32:57.281] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:33:00.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:33:06.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[10Feb2025 01:33:19.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:33:19.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:33:19.924] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:33:19.924] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:33:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ilis84> -
+[10Feb2025 01:33:25.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Feb2025 01:33:35.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:33:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:33:35.621] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:33:35.622] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:33:47.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6605ms or 132 ticks behind
+[10Feb2025 01:33:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:33:51.074] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:33:54.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:34:04.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:34:05.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:34:05.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:34:08.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:34:08.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:34:08.756] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:34:08.756] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:34:11.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:34:16.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Feb2025 01:34:16.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:34:36.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:34:36.455] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:34:39.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[10Feb2025 01:34:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:34:49.079] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:34:53.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:34:57.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[10Feb2025 01:35:01.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:35:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:35:01.436] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:35:01.436] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:35:04.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:35:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:35:13.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:35:13.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:35:13.845] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:35:13.846] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:35:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:35:17.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5580ms or 111 ticks behind
+[10Feb2025 01:35:28.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was burnt to a crisp whilst fighting Netherite Monstrosity
+[10Feb2025 01:35:28.006] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:35:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:35:40.067] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:35:44.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11930ms or 238 ticks behind
+[10Feb2025 01:35:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:35:53.074] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:35:53.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:35:56.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:35:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:35:57.130] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:36:06.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was doomed to fall by Netherite Monstrosity
+[10Feb2025 01:36:07.080] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:36:09.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:36:10.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:36:10.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:36:10.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11076ms or 221 ticks behind
+[10Feb2025 01:36:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:36:11.099] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:36:17.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:36:17.115] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved

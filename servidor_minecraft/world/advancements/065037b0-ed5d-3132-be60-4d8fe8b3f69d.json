@@ -3561,6 +3561,7 @@
       "minecraft:spider": "2025-02-08 05:31:35 +0000",
       "minecraft:creeper": "2025-02-09 03:27:03 +0000",
       "minecraft:witch": "2025-02-09 22:50:16 +0000",
+      "minecraft:piglin": "2025-02-10 01:27:55 +0000",
       "minecraft:stray": "2025-02-08 06:15:48 +0000",
       "minecraft:enderman": "2025-02-09 03:27:13 +0000",
       "minecraft:zombie": "2025-02-08 05:11:14 +0000",
@@ -9682,6 +9683,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 01:26:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
     "criteria": {
       "has_item": "2025-02-10 01:03:52 +0000"
@@ -9691,6 +9698,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-10 01:19:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-02-10 01:28:55 +0000"
     },
     "done": true
   },

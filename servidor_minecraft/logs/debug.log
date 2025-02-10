@@ -21807,3 +21807,455 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Feb2025 01:25:55.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [10Feb2025 01:25:56.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [10Feb2025 01:25:56.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:26:08.959] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:26:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has completed the challenge [Master Siphoner]
+[10Feb2025 01:26:09.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:26:41.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:26:43.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:26:44.572] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:37.921] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3201, y=20, z=2030}
+[10Feb2025 01:27:40.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:40.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:40.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:40.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:40.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:41.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:41.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:41.926] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3139, y=-18, z=2020}
+[10Feb2025 01:27:43.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:43.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:43.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:43.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:44.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:44.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:45.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:45.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[10Feb2025 01:27:46.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:49.781] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3293, y=-16, z=1960}
+[10Feb2025 01:27:50.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to gerR3219]
+[10Feb2025 01:27:54.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:54.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:55.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:27:56.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:28:39.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Zombified Piglin
+[10Feb2025 01:28:39.210] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:201, y:39, z:73, dim:minecraft:the_nether]
+[10Feb2025 01:28:39.249] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:28:54.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:28:55.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [The Soul Forge]
+[10Feb2025 01:30:02.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:02.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:30:02.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:02.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:03.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:03.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:30:03.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:03.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:04.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:04.753] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:04.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:11.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:11.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:11.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:11.906] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:12.149] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:12.390] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:12.643] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:13.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was doomed to fall
+[10Feb2025 01:30:13.884] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:104, y:34, z:1018, dim:minecraft:the_nether]
+[10Feb2025 01:30:13.950] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:30:13.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerR3219 moved wrongly!
+[10Feb2025 01:30:20.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Feb2025 01:30:22.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:30:22.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:30:24.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:25.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:25.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:28.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:29.052] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:29.397] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:29.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:30.758] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:30.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:31.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:31.799] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:32.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:32.390] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:32.638] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:33.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:33.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:33.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Strong or Careful]
+[10Feb2025 01:30:33.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by gerR3219
+[10Feb2025 01:30:33.083] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:96, y:34, z:1008, dim:minecraft:the_nether]
+[10Feb2025 01:30:33.086] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:30:33.203] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:39.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
+[10Feb2025 01:30:40.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 burned to death
+[10Feb2025 01:30:40.576] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:108, y:33, z:1017, dim:minecraft:the_nether]
+[10Feb2025 01:30:40.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerR3219 moved wrongly!
+[10Feb2025 01:30:40.580] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:30:51.564] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:51.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:30:52.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:52.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:52.874] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:53.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:30:53.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:56.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:56.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:56.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:56.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[10Feb2025 01:30:56.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:57.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:58.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:58.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:30:58.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:30:58.705] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:98, y:34, z:1011, dim:minecraft:the_nether]
+[10Feb2025 01:30:58.730] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:31:06.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:31:06.745] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:88, y:34, z:1013, dim:minecraft:the_nether]
+[10Feb2025 01:31:06.770] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:31:10.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:10.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:11.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:11.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:11.513] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:11.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:11.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:11.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:11.955] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:12.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:12.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:12.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:12.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:12.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:12.981] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:14.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:16.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:17.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:18.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:18.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6825ms or 136 ticks behind
+[10Feb2025 01:31:18.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:31:19.180] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:96, y:34, z:1011, dim:minecraft:the_nether]
+[10Feb2025 01:31:19.211] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:31:27.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:28.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:29.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:31.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:32.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:32.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:33.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:31:33.075] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:96, y:34, z:1012, dim:minecraft:the_nether]
+[10Feb2025 01:31:33.106] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:31:36.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
+[10Feb2025 01:31:38.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:31:45.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:46.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:48.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:49.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:49.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:49.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:31:49.712] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:87, y:34, z:1011, dim:minecraft:the_nether]
+[10Feb2025 01:31:49.747] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:31:52.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:53.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:31:53.358] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:00.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:00.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:01.551] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:02.123] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:02.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:03.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:04.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:04.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:05.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:06.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:06.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:32:06.110] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:81, y:34, z:1009, dim:minecraft:the_nether]
+[10Feb2025 01:32:06.142] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:32:11.729] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10Feb2025 01:32:14.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:14.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:15.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:32:15.983] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:32:46.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:32:46.665] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:79, y:34, z:1009, dim:minecraft:the_nether]
+[10Feb2025 01:32:46.694] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:32:48.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[10Feb2025 01:32:49.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:50.604] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:56.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:32:57.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:32:57.252] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:82, y:34, z:1009, dim:minecraft:the_nether]
+[10Feb2025 01:32:57.281] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:33:00.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:33:02.460] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:02.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:02.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:02.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:03.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:03.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:06.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[10Feb2025 01:33:14.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:15.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:15.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:16.612] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:17.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:17.334] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Feb2025 01:33:18.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:18.948] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:19.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:19.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Feb2025 01:33:19.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:33:19.880] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:74, y:34, z:1006, dim:minecraft:the_nether]
+[10Feb2025 01:33:19.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:33:19.884] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:81, y:34, z:1006, dim:minecraft:the_nether]
+[10Feb2025 01:33:19.924] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:33:19.924] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:33:20.032] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ilis84> -
+[10Feb2025 01:33:25.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Feb2025 01:33:30.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.041] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.097] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.484] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.643] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:31.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:32.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:32.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:32.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:32.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:32.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:34.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:34.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:35.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:35.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:33:35.588] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:79, y:34, z:1000, dim:minecraft:the_nether]
+[10Feb2025 01:33:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:33:35.592] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:82, y:34, z:1009, dim:minecraft:the_nether]
+[10Feb2025 01:33:35.621] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:33:35.622] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:33:45.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:46.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:47.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:33:47.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6605ms or 132 ticks behind
+[10Feb2025 01:33:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:33:51.055] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:85, y:34, z:995, dim:minecraft:the_nether]
+[10Feb2025 01:33:51.074] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:33:54.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:34:04.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:04.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:04.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:04.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:34:04.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:05.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:05.253] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:05.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:05.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:34:05.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:34:06.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:07.632] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:08.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:34:08.721] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:86, y:34, z:1004, dim:minecraft:the_nether]
+[10Feb2025 01:34:08.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:34:08.725] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:91, y:34, z:1006, dim:minecraft:the_nether]
+[10Feb2025 01:34:08.756] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:34:08.756] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:34:11.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:34:16.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Feb2025 01:34:16.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:34:23.454] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:24.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:24.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:24.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:24.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:24.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:25.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:25.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:25.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:25.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:26.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:26.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:26.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:26.990] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:27.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:27.296] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:27.499] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:27.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:27.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:27.907] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:27.958] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:28.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:28.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:28.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:28.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:28.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:28.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:28.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:29.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:29.184] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:29.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:29.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:29.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:30.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:30.700] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:30.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Feb2025 01:34:31.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:31.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:32.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:33.179] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:33.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:34.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:35.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:35.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Feb2025 01:34:35.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:35.685] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:35.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:35.927] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:35.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:36.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:36.299] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:36.390] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:36.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:34:36.425] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:99, y:34, z:1012, dim:minecraft:the_nether]
+[10Feb2025 01:34:36.455] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:34:36.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:39.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[10Feb2025 01:34:46.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:48.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:49.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:34:49.079] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:34:53.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:34:56.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:34:57.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2638ms or 52 ticks behind
+[10Feb2025 01:35:00.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:00.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:00.843] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:01.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:01.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:35:01.408] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:97, y:34, z:1015, dim:minecraft:the_nether]
+[10Feb2025 01:35:01.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:35:01.436] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:35:01.436] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:35:04.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:35:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:35:13.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:35:13.811] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:95, y:34, z:1017, dim:minecraft:the_nether]
+[10Feb2025 01:35:13.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:35:13.845] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:35:13.846] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:35:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:35:17.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5580ms or 111 ticks behind
+[10Feb2025 01:35:25.253] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:27.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:27.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:28.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was burnt to a crisp whilst fighting Netherite Monstrosity
+[10Feb2025 01:35:28.001] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:92, y:34, z:1009, dim:minecraft:the_nether]
+[10Feb2025 01:35:28.006] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:35:28.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:28.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:37.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:37.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:40.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:35:40.047] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:92, y:34, z:1017, dim:minecraft:the_nether]
+[10Feb2025 01:35:40.067] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:35:44.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11930ms or 238 ticks behind
+[10Feb2025 01:35:44.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:45.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:46.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:46.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:46.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:46.863] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:46.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:47.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:47.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:48.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.398] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:50.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:51.141] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:51.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:51.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:51.600] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:51.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:51.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:51.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:51.993] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:52.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:52.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:52.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:52.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:52.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:52.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:53.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:35:53.047] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:96, y:34, z:1015, dim:minecraft:the_nether]
+[10Feb2025 01:35:53.074] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:35:53.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:53.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:53.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:35:53.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:56.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:56.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:35:57.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:35:57.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:35:57.101] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:94, y:34, z:1019, dim:minecraft:the_nether]
+[10Feb2025 01:35:57.130] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:36:01.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:02.460] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:02.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:03.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:03.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:03.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:03.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:04.054] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:04.270] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:04.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:06.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was doomed to fall by Netherite Monstrosity
+[10Feb2025 01:36:06.863] [Server thread/DEBUG] [tombstone/]: A new grave of the player gerR3219 was created at position [x:99, y:34, z:1015, dim:minecraft:the_nether]
+[10Feb2025 01:36:07.070] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:07.074] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:07.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:07.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:07.080] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:36:07.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:08.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:09.263] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:09.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:09.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:36:10.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:36:10.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:10.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:10.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 01:36:10.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:10.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:10.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11076ms or 221 ticks behind
+[10Feb2025 01:36:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Netherite Monstrosity
+[10Feb2025 01:36:11.067] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:96, y:34, z:1021, dim:minecraft:the_nether]
+[10Feb2025 01:36:11.099] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 01:36:16.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:16.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:16.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:16.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:16.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:17.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:17.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
+[10Feb2025 01:36:17.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:17.115] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
