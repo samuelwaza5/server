@@ -99,3 +99,15 @@
 [10Feb2025 00:25:40.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Doctor Odin the Doctor'/105344, l='ServerLevel[world]', x=-350.84, y=-29.77, z=-224.83] died: Doctor Odin the Doctor died to a mysterious power whilst fighting ilis84
 [10Feb2025 00:28:20.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Gerathtoast the Ogre Slayer'/107283, l='ServerLevel[world]', x=-375.96, y=-36.00, z=-253.42] died: Gerathtoast the Ogre Slayer was slain by ilis84
 [10Feb2025 00:32:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]
+[10Feb2025 00:36:11.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to setexgamer]
+[10Feb2025 00:38:51.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[10Feb2025 00:39:07.210] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[10Feb2025 00:39:07.210] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[10Feb2025 00:39:11.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5386ms or 107 ticks behind
+[10Feb2025 00:39:32.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5779ms or 115 ticks behind
+[10Feb2025 00:39:51.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
+[10Feb2025 00:40:10.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3790ms or 75 ticks behind
+[10Feb2025 00:40:21.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Karen the Mighty'/110337, l='ServerLevel[world]', x=-327.01, y=-37.00, z=-242.92] died: Karen the Mighty died to a mysterious power whilst fighting ilis84
+[10Feb2025 00:40:27.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[10Feb2025 00:40:51.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10Feb2025 00:42:30.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lady Sheepdarkjank'/110229, l='ServerLevel[world]', x=-339.70, y=-34.00, z=-235.70] died: Lady Sheepdarkjank was slain by ilis84
