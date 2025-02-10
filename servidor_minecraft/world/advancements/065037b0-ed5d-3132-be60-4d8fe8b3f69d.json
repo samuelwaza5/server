@@ -9669,6 +9669,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2025-02-10 01:10:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2025-02-10 01:03:52 +0000"

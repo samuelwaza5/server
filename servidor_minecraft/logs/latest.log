@@ -175,3 +175,20 @@
 [10Feb2025 01:03:52.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [Another Brick in the Wall]
 [10Feb2025 01:05:12.176] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [10Feb2025 01:05:12.176] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[10Feb2025 01:10:32.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: setexgamer[/100.98.149.45:60323] logged in with entity id 120290 at (2627.699478377332, 65.0, 1180.9582458042648)
+[10Feb2025 01:10:32.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to setexgamer
+[10Feb2025 01:10:32.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to setexgamer
+[10Feb2025 01:10:32.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to setexgamer
+[10Feb2025 01:10:32.788] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to setexgamer
+[10Feb2025 01:10:32.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to setexgamer
+[10Feb2025 01:10:32.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to setexgamer
+[10Feb2025 01:10:32.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to setexgamer
+[10Feb2025 01:10:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer joined the game
+[10Feb2025 01:10:33.196] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[10Feb2025 01:10:33.200] [Server thread/INFO] [Jade/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[10Feb2025 01:10:38.863] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of setexgamer (18)
+[10Feb2025 01:10:38.864] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to setexgamer
+[10Feb2025 01:10:38.910] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was loaded
+[10Feb2025 01:11:42.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[10Feb2025 01:11:43.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[10Feb2025 01:11:43.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
