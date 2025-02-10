@@ -192,3 +192,17 @@
 [10Feb2025 01:11:42.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5513d577-e3bb-3e49-8f50-eb82f73fd107
 [10Feb2025 01:11:43.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
 [10Feb2025 01:11:43.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
+[10Feb2025 01:19:31.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Made gerR3219 a server operator]
+[10Feb2025 01:19:32.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [We Need to Go Deeper]
+[10Feb2025 01:19:33.258] [Worker-Main-130/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Feb2025 01:19:33.258] [Worker-Main-130/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Feb2025 01:19:33.258] [Worker-Main-130/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Feb2025 01:19:34.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -1.0115034348141307,-7.1900762008871055,-7.057237788826342
+[10Feb2025 01:19:43.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Feb2025 01:20:06.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Lucas'/124977, l='ServerLevel[world]', x=349.34, y=54.00, z=138.41] died: Lucas was slain by Zombified Piglin
+[10Feb2025 01:21:39.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Teleported ilis84 to gerR3219]
+[10Feb2025 01:22:26.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [Epic!]
+[10Feb2025 01:25:04.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Ancient Knight
+[10Feb2025 01:25:04.022] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:25:53.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Ancient Knight
+[10Feb2025 01:25:53.097] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
