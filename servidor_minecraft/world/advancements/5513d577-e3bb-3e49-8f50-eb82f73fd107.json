@@ -11792,6 +11792,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-09 23:55:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-09 22:08:55 +0000"
@@ -11893,6 +11899,12 @@
       "has_upgrade_base": "2025-02-09 22:25:29 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-02-09 23:55:04 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
@@ -12029,6 +12041,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-02-09 22:17:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-09 23:55:04 +0000"
     },
     "done": true
   },

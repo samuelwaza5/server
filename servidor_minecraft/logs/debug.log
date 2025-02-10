@@ -19299,3 +19299,69 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Feb2025 23:52:42.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6582ms or 131 ticks behind
 [09Feb2025 23:53:03.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6157ms or 123 ticks behind
 [09Feb2025 23:53:23.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5720ms or 114 ticks behind
+[09Feb2025 23:53:46.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7150ms or 143 ticks behind
+[09Feb2025 23:54:06.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5822ms or 116 ticks behind
+[09Feb2025 23:54:28.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6245ms or 124 ticks behind
+[09Feb2025 23:54:48.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5671ms or 113 ticks behind
+[09Feb2025 23:55:09.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5781ms or 115 ticks behind
+[09Feb2025 23:55:29.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4533ms or 90 ticks behind
+[09Feb2025 23:55:48.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4740ms or 94 ticks behind
+[09Feb2025 23:56:08.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
+[09Feb2025 23:56:19.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 23:56:19.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 23:56:28.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5173ms or 103 ticks behind
+[09Feb2025 23:56:48.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4496ms or 89 ticks behind
+[09Feb2025 23:57:08.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5079ms or 101 ticks behind
+[09Feb2025 23:57:28.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5647ms or 112 ticks behind
+[09Feb2025 23:57:48.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5146ms or 102 ticks behind
+[09Feb2025 23:58:10.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6258ms or 125 ticks behind
+[09Feb2025 23:58:24.002] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:24.341] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:24.684] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:25.053] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:25.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:25.761] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:26.096] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:26.458] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:26.775] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:27.103] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:27.449] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:27.819] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:28.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:28.555] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[09Feb2025 23:58:31.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6368ms or 127 ticks behind
+[09Feb2025 23:58:52.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6234ms or 124 ticks behind
+[09Feb2025 23:59:14.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6461ms or 129 ticks behind
+[09Feb2025 23:59:35.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6122ms or 122 ticks behind
+[09Feb2025 23:59:49.453] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[09Feb2025 23:59:49.453] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[09Feb2025 23:59:56.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6243ms or 124 ticks behind
+[10Feb2025 00:00:10.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 00:00:12.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 00:00:17.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6026ms or 120 ticks behind
+[10Feb2025 00:00:17.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 00:00:38.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6048ms or 120 ticks behind
+[10Feb2025 00:00:59.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5828ms or 116 ticks behind
+[10Feb2025 00:01:19.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4945ms or 98 ticks behind
+[10Feb2025 00:01:38.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4702ms or 94 ticks behind
+[10Feb2025 00:01:58.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4640ms or 92 ticks behind
+[10Feb2025 00:02:06.628] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 00:02:07.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 00:02:09.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Dread Thrall
+[10Feb2025 00:02:09.765] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:650, y:136, z:-387, dim:minecraft:overworld]
+[10Feb2025 00:02:09.916] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 00:02:21.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10Feb2025 00:02:25.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Dread Thrall
+[10Feb2025 00:02:25.398] [Server thread/DEBUG] [tombstone/]: A new grave of the player ilis84 was created at position [x:650, y:136, z:-387, dim:minecraft:overworld]
+[10Feb2025 00:02:25.526] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 00:02:36.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Dread Thrall
+[10Feb2025 00:02:36.763] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 00:02:47.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Dread Thrall
+[10Feb2025 00:02:47.586] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 00:02:53.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 00:02:53.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 00:03:02.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 00:03:20.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Dread Thrall
+[10Feb2025 00:03:20.527] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
+[10Feb2025 00:03:23.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91103, l='ServerLevel[world]', x=1047.90, y=68.00, z=-288.47] died, message: 'Unemployed was pricked to death'
+[10Feb2025 00:03:50.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
