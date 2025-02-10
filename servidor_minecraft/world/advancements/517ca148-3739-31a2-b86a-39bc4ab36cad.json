@@ -4671,6 +4671,7 @@
       "minecraft:skeleton": "2025-02-08 06:24:00 +0000",
       "minecraft:ghast": "2025-02-09 04:23:19 +0000",
       "minecraft:hoglin": "2025-02-09 04:20:41 +0000",
+      "minecraft:vindicator": "2025-02-10 03:03:38 +0000",
       "minecraft:spider": "2025-02-08 07:25:19 +0000",
       "minecraft:piglin_brute": "2025-02-09 04:06:14 +0000",
       "minecraft:creeper": "2025-02-08 05:20:44 +0000",
@@ -10382,9 +10383,63 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-10 02:54:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-10 02:54:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-02-10 02:54:19 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/light_blue_flag": {
+    "criteria": {
+      "has_light_blue_flag": "2025-02-10 02:54:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-10 02:54:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_cushion": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-02-10 02:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-10 02:54:19 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-02-10 02:51:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-10 02:54:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-10 02:54:19 +0000"
     },
     "done": true
   },
