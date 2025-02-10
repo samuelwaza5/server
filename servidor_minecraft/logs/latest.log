@@ -321,3 +321,14 @@
 [10Feb2025 01:36:11.099] [Server thread/INFO] [tombstone/]: The player ilis84 has successfully been saved
 [10Feb2025 01:36:17.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
 [10Feb2025 01:36:17.115] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:36:22.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:36:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:36:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has completed the challenge [The broken Nether's warmachine]
+[10Feb2025 01:36:39.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13289ms or 265 ticks behind
+[10Feb2025 01:37:45.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10Feb2025 01:38:02.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[10Feb2025 01:38:24.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Feb2025 01:38:46.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[10Feb2025 01:40:14.959] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[10Feb2025 01:45:17.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:46:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported ilis84 to gerR3219]

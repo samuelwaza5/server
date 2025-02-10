@@ -22259,3 +22259,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Feb2025 01:36:17.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Netherite Monstrosity
 [10Feb2025 01:36:17.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [10Feb2025 01:36:17.115] [Server thread/INFO] [tombstone/]: The player gerR3219 has successfully been saved
+[10Feb2025 01:36:22.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:36:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:36:25.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:25.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:25.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:25.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:25.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:25.691] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:25.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:25.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:25.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:27.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:27.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:27.253] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:27.254] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has completed the challenge [The broken Nether's warmachine]
+[10Feb2025 01:36:27.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:27.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:27.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:36:39.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13289ms or 265 ticks behind
+[10Feb2025 01:36:43.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:36:43.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:37:22.296] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:37:45.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10Feb2025 01:38:02.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[10Feb2025 01:38:24.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Feb2025 01:38:46.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[10Feb2025 01:40:14.959] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[10Feb2025 01:41:51.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:41:51.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:44:14.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:44:15.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:45:17.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:46:51.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:46:51.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:46:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported ilis84 to gerR3219]
