@@ -111,3 +111,29 @@
 [10Feb2025 00:40:27.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
 [10Feb2025 00:40:51.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [10Feb2025 00:42:30.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Lady Sheepdarkjank'/110229, l='ServerLevel[world]', x=-339.70, y=-34.00, z=-235.70] died: Lady Sheepdarkjank was slain by ilis84
+[10Feb2025 00:47:12.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Disconnected
+[10Feb2025 00:47:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[10Feb2025 00:47:12.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[10Feb2025 00:47:12.539] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilis84
+[10Feb2025 00:47:23.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Disconnected
+[10Feb2025 00:47:23.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[10Feb2025 00:47:23.592] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[10Feb2025 00:47:23.592] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client setexgamer
+[10Feb2025 00:54:33.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:52883] logged in with entity id 114707 at (-404.52019676675997, -35.0, -223.90248733897525)
+[10Feb2025 00:54:33.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ilis84
+[10Feb2025 00:54:33.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ilis84
+[10Feb2025 00:54:33.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ilis84
+[10Feb2025 00:54:33.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ilis84
+[10Feb2025 00:54:33.570] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ilis84
+[10Feb2025 00:54:33.572] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ilis84
+[10Feb2025 00:54:33.572] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ilis84
+[10Feb2025 00:54:33.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[10Feb2025 00:54:34.084] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[10Feb2025 00:54:34.090] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[10Feb2025 00:54:34.965] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilis84 (18)
+[10Feb2025 00:54:34.966] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilis84
+[10Feb2025 00:54:34.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[10Feb2025 00:55:00.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 517ca148-3739-31a2-b86a-39bc4ab36cad
+[10Feb2025 00:55:01.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 517ca148-3739-31a2-b86a-39bc4ab36cad
+[10Feb2025 00:55:01.601] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad) successfully connected to voice chat
+[10Feb2025 00:55:08.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ilis84: Set own game mode to Spectator Mode]
