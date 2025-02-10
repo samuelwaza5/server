@@ -94,3 +94,8 @@
 [10Feb2025 00:22:34.439] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-227, y=13, z=-434}
 [10Feb2025 00:23:05.373] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-157, y=33, z=-286}
 [10Feb2025 00:24:19.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved wrongly!
+[10Feb2025 00:24:36.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10Feb2025 00:24:38.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Vice-Chancellor Gina the AC Rizzlord'/104631, l='ServerLevel[world]', x=-419.17, y=-36.00, z=-208.42] died: Vice-Chancellor Gina the AC Rizzlord died to a mysterious power whilst fighting ilis84
+[10Feb2025 00:25:40.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Doctor Odin the Doctor'/105344, l='ServerLevel[world]', x=-350.84, y=-29.77, z=-224.83] died: Doctor Odin the Doctor died to a mysterious power whilst fighting ilis84
+[10Feb2025 00:28:20.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Gerathtoast the Ogre Slayer'/107283, l='ServerLevel[world]', x=-375.96, y=-36.00, z=-253.42] died: Gerathtoast the Ogre Slayer was slain by ilis84
+[10Feb2025 00:32:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to ilis84]

@@ -1735,6 +1735,7 @@
       "minecraft:sunflower_plains": "2025-02-08 06:29:22 +0000",
       "minecraft:cherry_grove": "2025-02-08 18:12:08 +0000",
       "minecraft:birch_forest": "2025-02-08 05:08:21 +0000",
+      "minecraft:savanna_plateau": "2025-02-10 00:19:48 +0000",
       "minecraft:beach": "2025-02-08 19:03:38 +0000",
       "minecraft:dark_forest": "2025-02-08 05:13:45 +0000",
       "minecraft:stony_peaks": "2025-02-10 00:16:38 +0000",
@@ -1756,6 +1757,7 @@
       "minecraft:old_growth_birch_forest": "2025-02-08 05:08:19 +0000",
       "minecraft:deep_dark": "2025-02-08 05:37:20 +0000",
       "minecraft:meadow": "2025-02-08 05:17:55 +0000",
+      "minecraft:savanna": "2025-02-10 00:20:57 +0000",
       "minecraft:plains": "2025-02-08 05:04:10 +0000"
     },
     "done": false
