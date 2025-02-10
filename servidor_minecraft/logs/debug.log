@@ -22295,3 +22295,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [10Feb2025 01:46:51.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Feb2025 01:46:51.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Feb2025 01:46:51.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported ilis84 to gerR3219]
+[10Feb2025 01:47:54.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Feb2025 01:49:41.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported ilis84 to gerR3219]
+[10Feb2025 01:51:24.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported ilis84 to gerR3219]
+[10Feb2025 01:51:44.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported ilis84 to gerR3219]
+[10Feb2025 01:51:51.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:51:51.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Feb2025 01:53:40.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Set own game mode to Spectator Mode]
+[10Feb2025 01:53:41.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Set own game mode to Survival Mode]
+[10Feb2025 01:54:18.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Feb2025 01:54:48.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:55:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported ilis84 to gerR3219]
+[10Feb2025 01:56:12.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerR3219: Teleported gerR3219 to ilis84]
+[10Feb2025 01:56:53.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Feb2025 01:56:53.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
