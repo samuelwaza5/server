@@ -9666,8 +9666,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-10 01:57:08 +0000",
       "minecraft:nether_wastes": "2025-02-10 01:19:34 +0000",
-      "minecraft:basalt_deltas": "2025-02-10 01:20:16 +0000"
+      "minecraft:basalt_deltas": "2025-02-10 01:20:16 +0000",
+      "minecraft:warped_forest": "2025-02-10 01:57:21 +0000"
     },
     "done": false
   },
