@@ -3523,7 +3523,9 @@
       "cooked_mutton": "2025-02-08 05:34:13 +0000",
       "cooked_beef": "2025-02-08 05:05:47 +0000",
       "baked_potato": "2025-02-08 06:58:35 +0000",
+      "porkchop": "2025-02-10 02:05:05 +0000",
       "bread": "2025-02-08 05:57:37 +0000",
+      "golden_apple": "2025-02-10 02:13:09 +0000",
       "enchanted_golden_apple": "2025-02-08 18:20:42 +0000",
       "cod": "2025-02-09 06:42:59 +0000",
       "carrot": "2025-02-08 07:02:53 +0000"
@@ -9685,6 +9687,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-02-10 02:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-10 01:37:37 +0000"
@@ -9706,6 +9714,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-02-10 01:37:37 +0000"
+    },
+    "done": true
+  },
+  "simpledrills:simple_drills": {
+    "criteria": {
+      "simple_drills_0": "2025-02-10 02:02:45 +0000"
     },
     "done": true
   },
